@@ -19,3 +19,6 @@ Website ini menggunakan desain bersih (clean design) dengan container yang respo
 ## 📂 Cara Menjalankan
 1. Clone repository ini.
 2. Buka file `index.html` di browser pilihan Anda.
+
+## Bisa juga lewat URL ini 
+https://davadidat.github.io/cv/
