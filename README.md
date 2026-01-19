@@ -20,5 +20,4 @@ Website ini menggunakan desain bersih (clean design) dengan container yang respo
 1. Clone repository ini.
 2. Buka file `index.html` di browser pilihan Anda.
 
-Project URL: https://davadidat.github.io/cv/ 
-(Ganti dengan link yang kamu copy tadi)
+Project URL: [https://davadidat.github.io/cv/ ](https://davadidat.github.io/cv/)
